@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.ejs": "vue-html",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "string": "cpp",
+        "iostream": "cpp",
+        "new": "cpp",
+        "*.tcc": "cpp",
+        "system_error": "cpp",
+        "regex": "cpp"
+    }
+}
